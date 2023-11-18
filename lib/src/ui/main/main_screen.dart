@@ -91,7 +91,7 @@ class _MainScreenState extends State<MainScreen> {
               width: 24,
               color: _selectedIndex == 3 ? AppColor.white : AppColor.green,
             ),
-            label: "Profile",
+            label: "Admin",
           ),
         ],
       ),
